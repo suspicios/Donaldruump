@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+vimport React, { useState } from 'react';
 import { Home, Users, DollarSign, User, Menu, LogOut, CheckCircle, Clock, XCircle, Plus, Upload, FileText } from 'lucide-react';
 
 export default function XPayDashboard() {
